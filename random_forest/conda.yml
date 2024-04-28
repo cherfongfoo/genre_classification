@@ -14,3 +14,4 @@ dependencies:
   - pip:
       - wandb==0.16.6
       - omegaconf==2.0.6
+      - numpy==1.23.5
